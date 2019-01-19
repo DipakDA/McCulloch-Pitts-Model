@@ -1,0 +1,20 @@
+#divWrapper {
+  text-align: center;
+}
+#formMain {
+  margin-top: 200px;
+  background-color: #ffff23;
+  width: 30%;
+  margin-left: 50px;
+  display: inline-block;
+  float: left;
+  border-style: solid;
+  margin-right: 100px;
+}
+
+#flightBtn {
+  display: inline-block;
+  border-style: solid;
+  padding-top: 20px;
+
+}
